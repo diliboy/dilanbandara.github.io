@@ -1067,6 +1067,7 @@ a:focus {
 .price .featured-item {
     box-shadow: 0 0 30px rgba(0, 0, 0, .2);
     z-index: 1;
+    border: rgb(223, 74, 74) solid;
 }
 
 .price .price-header,
@@ -1127,6 +1128,7 @@ a:focus {
 
 .price .price-description ul li {
     padding: 0 0 20px 0;
+    margin: 0 20px 0 20px;
 }
 
 .price .price-item .price-action {
